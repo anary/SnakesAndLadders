@@ -1,0 +1,16 @@
+D:\TestProjects\SnakesAndLadders\SnakesAndLadders.Business\bin\Debug\SnakesAndLadders.Business.dll
+D:\TestProjects\SnakesAndLadders\SnakesAndLadders.Business\bin\Debug\SnakesAndLadders.Business.pdb
+D:\TestProjects\SnakesAndLadders\SnakesAndLadders.Business\bin\Debug\SnakesAndLadders.Core.dll
+D:\TestProjects\SnakesAndLadders\SnakesAndLadders.Business\bin\Debug\SnakesAndLadders.Core.pdb
+D:\TestProjects\SnakesAndLadders\SnakesAndLadders.Business\obj\Debug\SnakesAndLadders.Business.csprojAssemblyReference.cache
+D:\TestProjects\SnakesAndLadders\SnakesAndLadders.Business\obj\Debug\SnakesAndLadders.Business.csproj.CoreCompileInputs.cache
+D:\TestProjects\SnakesAndLadders\SnakesAndLadders.Business\obj\Debug\SnakesAndLadders.Business.csproj.CopyComplete
+D:\TestProjects\SnakesAndLadders\SnakesAndLadders.Business\obj\Debug\SnakesAndLadders.Business.dll
+D:\TestProjects\SnakesAndLadders\SnakesAndLadders.Business\obj\Debug\SnakesAndLadders.Business.pdb
+H:\test\SnakesAndLadders-master\SnakesAndLadders-master\SnakesAndLadders.Business\bin\Debug\SnakesAndLadders.Business.dll
+H:\test\SnakesAndLadders-master\SnakesAndLadders-master\SnakesAndLadders.Business\bin\Debug\SnakesAndLadders.Business.pdb
+H:\test\SnakesAndLadders-master\SnakesAndLadders-master\SnakesAndLadders.Business\bin\Debug\SnakesAndLadders.Core.dll
+H:\test\SnakesAndLadders-master\SnakesAndLadders-master\SnakesAndLadders.Business\bin\Debug\SnakesAndLadders.Core.pdb
+H:\test\SnakesAndLadders-master\SnakesAndLadders-master\SnakesAndLadders.Business\obj\Debug\SnakesAndLadders.Business.csprojResolveAssemblyReference.cache
+H:\test\SnakesAndLadders-master\SnakesAndLadders-master\SnakesAndLadders.Business\obj\Debug\SnakesAndLadders.Business.dll
+H:\test\SnakesAndLadders-master\SnakesAndLadders-master\SnakesAndLadders.Business\obj\Debug\SnakesAndLadders.Business.pdb

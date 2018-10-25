@@ -1,0 +1,11 @@
+D:\TestProjects\SnakesAndLadders\SnakesAndLadders.Core\bin\Debug\SnakesAndLadders.Core.dll
+D:\TestProjects\SnakesAndLadders\SnakesAndLadders.Core\bin\Debug\SnakesAndLadders.Core.pdb
+D:\TestProjects\SnakesAndLadders\SnakesAndLadders.Core\obj\Debug\SnakesAndLadders.Core.csprojAssemblyReference.cache
+D:\TestProjects\SnakesAndLadders\SnakesAndLadders.Core\obj\Debug\SnakesAndLadders.Core.csproj.CoreCompileInputs.cache
+D:\TestProjects\SnakesAndLadders\SnakesAndLadders.Core\obj\Debug\SnakesAndLadders.Core.dll
+D:\TestProjects\SnakesAndLadders\SnakesAndLadders.Core\obj\Debug\SnakesAndLadders.Core.pdb
+H:\test\SnakesAndLadders-master\SnakesAndLadders-master\SnakesAndLadders.Core\bin\Debug\SnakesAndLadders.Core.dll
+H:\test\SnakesAndLadders-master\SnakesAndLadders-master\SnakesAndLadders.Core\bin\Debug\SnakesAndLadders.Core.pdb
+H:\test\SnakesAndLadders-master\SnakesAndLadders-master\SnakesAndLadders.Core\obj\Debug\SnakesAndLadders.Core.csprojResolveAssemblyReference.cache
+H:\test\SnakesAndLadders-master\SnakesAndLadders-master\SnakesAndLadders.Core\obj\Debug\SnakesAndLadders.Core.dll
+H:\test\SnakesAndLadders-master\SnakesAndLadders-master\SnakesAndLadders.Core\obj\Debug\SnakesAndLadders.Core.pdb
